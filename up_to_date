@@ -1,1 +1,5 @@
-git pull origin
+git fetch origin
+git pull orgin
+git add .
+git commit
+git push
